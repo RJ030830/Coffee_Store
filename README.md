@@ -1,6 +1,9 @@
 **Análise de Dados de uma Cafeteria — Insights que Conectam Números e Decisões**
+
 Este projeto tem como objetivo aplicar técnicas de análise de dados para compreender o desempenho de uma cafeteria ao longo de um ano (03/2024 a 03/2025), transformando informações em insights estratégicos que apoiam a tomada de decisão e o aumento da lucratividade.
+
 A análise foi guiada por perguntas de negócio reais, como:
+
 Quais são os dias da semana com maior e menor volume de vendas?
 
 
