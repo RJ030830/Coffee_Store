@@ -27,4 +27,5 @@ Existem tendências semanais e mensais relevantes para o planejamento?
 
 Durante o processo, foram utilizadas ferramentas e bibliotecas de análise e visualização de dados, como Python (Pandas, Matplotlib, Seaborn), além de boas práticas de exploração e storytelling com dados.
 Os resultados possibilitam uma visão clara dos padrões de consumo, identificação de oportunidades operacionais e suporte à gestão baseada em evidências, reforçando o papel da análise de dados como aliada estratégica dos negócios.
+
 🎯 O principal aprendizado deste projeto foi compreender que dados sozinhos não geram valor — o valor está nas decisões que tomamos a partir deles.
